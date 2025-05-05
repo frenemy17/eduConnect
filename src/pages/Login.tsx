@@ -21,7 +21,7 @@ export default function Login() {
             <div className="flex justify-center">
               <Book className="h-12 w-12 text-indigo-600" />
             </div>
-            <h2 className="mt-4 text-3xl font-extrabold text-gray-900">Welcome to StudyMatch</h2>
+            <h2 className="mt-4 text-3xl font-extrabold text-gray-900">Welcome to EduConnect</h2>
             <p className="mt-2 text-gray-600">
               Connect with study partners and boost your academic success
             </p>
@@ -80,7 +80,7 @@ export default function Login() {
         </div>
         <div className="px-6 py-4 bg-gray-50 border-t border-gray-200 sm:px-10">
           <p className="text-xs leading-5 text-gray-500">
-            StudyMatch helps you connect with the perfect study partners to improve your learning
+            EduConnect helps you connect with the perfect study partners to improve your learning
             experience and academic performance.
           </p>
         </div>
